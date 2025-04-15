@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "sentence": "The ___ brown fox jumps over the ___ dog.",
+      "blanks": 2,
+      "options": ["quick", "lazy", "fast", "sleepy"],
+      "answers": ["quick", "lazy"]
+    },
+    {
+      "id": 2,
+      "sentence": "She ___ to the market to ___ some vegetables.",
+      "blanks": 2,
+      "options": ["went", "buy", "cook", "see"],
+      "answers": ["went", "buy"]
+    }
+  ]
+}
